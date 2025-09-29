@@ -2,7 +2,7 @@
 
 # Image Super Resolution
 ## Motivation for the Project
-This is a project done under IET NITK where the goal is to enhance the brightness of low light image and then pass it to the super resolution model to enhance the visibility and clarity of the image and removing the noise such that the output image is much more clear and visibily pleasing and aesthetically appealing.
+This is a project where the goal is to enhance the brightness of low light image and then pass it to the super resolution model to enhance the visibility and clarity of the image and removing the noise such that the output image is much more clear and visibily pleasing and aesthetically appealing.
 ## Description
 
 Our proposed model begins by implementing a mechanism to determine whether the input image exhibits characteristics of low-light conditions.Causes of low-light conditions can be due to insufficient or
